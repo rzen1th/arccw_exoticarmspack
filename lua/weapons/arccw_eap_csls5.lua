@@ -90,7 +90,7 @@ SWEP.ShellPitch = 95
 SWEP.ShellScale = 1.25
 SWEP.ShellRotateAngle = Angle(0, 180, 0)
  -- which attachment to put the muzzle on
-SWEP.CaseEffectAttachment = 1 -- which attachment to put the case effect on
+SWEP.CaseEffectAttachment = 2 -- which attachment to put the case effect on
 
 SWEP.SpeedMult = 0.90
 SWEP.SightedSpeedMult = 0.7
@@ -110,7 +110,7 @@ SWEP.HoldtypeSights = "rpg"
 
 SWEP.AnimShoot = ACT_HL2MP_GESTURE_RANGE_ATTACK_AR2
 
-SWEP.ActivePos = Vector(0, 0, 0)
+SWEP.ActivePos = Vector(-2, -3, 0)
 SWEP.ActiveAng = Angle(0, 0, 0)
 
 SWEP.CrouchPos = Vector(-8, 0, 1)
